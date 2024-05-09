@@ -1,3 +1,5 @@
+# Next.js: El framework de React para producción
+Resolución al curso "Next.js: El framework de React para producción" de Fernando Herrera
 
 <hr/>
 <h3>¡Sigueme en mis redes!</h3>
